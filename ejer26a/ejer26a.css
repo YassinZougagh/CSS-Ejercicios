@@ -1,0 +1,25 @@
+
+.containerint{
+    border:black 3px solid ;
+    background-color: orange;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 400px;
+    display: inline-block;
+}
+.containerint2{
+    border:black 3px solid ;
+    background-color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 400px;
+    display: inline-block;
+}
+.containerint3{
+    border:black 3px solid ;
+    background-color: aqua;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 1000px;
+    max-width: 1000px;
+}
